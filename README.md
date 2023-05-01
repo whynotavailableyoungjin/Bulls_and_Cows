@@ -1,2 +1,3 @@
 # Bulls_and_Cows
-hi
+
+This is Bulls and Cows repo.
